@@ -1,0 +1,33 @@
+_repo: Tales-from-silver-lands_68292
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Honoré, Paul
+    gutenberg_agent_id: '54702'
+    url: http://www.gutenberg.org/2009/agents/54702
+creator:
+  author:
+    agent_name: Finger, Charles J. (Charles Joseph)
+    birthdate: 1869
+    deathdate: 1941
+    gutenberg_agent_id: '35486'
+    url: http://www.gutenberg.org/2009/agents/35486
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Finger
+description: ''
+gutenberg_issued: '2022-06-11'
+identifiers:
+  gutenberg: '68292'
+language: en
+pgterms:marc905: 20220608201233finger
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Al Haines, Cindy Beyer & the online Distributed Proofreaders Canada
+  team at https://www.pgdpcanada.net
+publication_note: United States :Doubleday & Company, Inc.,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tales from silver lands
+url: http://www.gutenberg.org/ebooks/68292
